@@ -1,6 +1,6 @@
 # kkinfotech
 
-A new Flutter project.
+A single page of UI showcasing my UI/UX skills in Flutter.
 
 ## Getting Started
 
